@@ -1,2 +1,2 @@
 # Activator-Windows
-архів Activator Windows
+архів Activator Windows parts 2
